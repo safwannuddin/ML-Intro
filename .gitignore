@@ -1,0 +1,77 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+ENV/
+.python-version
+
+# VS Code settings
+.vscode/
+
+# Pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# coverage.py
+.coverage
+htmlcov/
+.cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# Python ignores
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+.venv/
+.env/
+.ipynb_checkpoints
+.vscode/
+*.log
+.DS_Store
+.mypy_cache/
+.pytest_cache/
+coverage/
+.cache/
+*.egg-info/
+dist/
+build/
+
+# Node.js-style ignore
+node_modules/
